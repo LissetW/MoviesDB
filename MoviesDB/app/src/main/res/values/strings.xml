@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Movies DB</string>
+    <string name="update_button">Actualizar</string>
+    <string name="delete_button">Eliminar</string>
+    <string name="save_button">Guardar</string>
+    <string name="cancel_button">Cancelar</string>
+    <string name="delete_error">Error al eliminar la película</string>
+    <string name="delete_success">Película eliminada exitosamente</string>
+    <string name="no_records">¡No hay registros!</string>
+    <string name="add_item">Agregrar elemento</string>
+    <string name="header">Header</string>
+    <string name="title">Película</string>
+    <string name="genre">Género</string>
+    <string name="director">Director</string>
+    <string name="image">Imagen</string>
+    <string name="update_sucess">Película actualizada exitosamente</string>
+    <string name="update_error">Error al actualizar la película</string>
+    <string name="save_sucess">Película guardada exitosamente</string>
+    <string name="save_error">Error al guardar la película</string>
+    <string name="confirm_title">Confirmacion</string>
+    <string name="confirm_msg">Realmente deseas eliminar el juego %1$s</string>
+    <string name="accept_button">Aceptar</string>
+    <string name="name">Nombre de la película</string>
+    <string-array name="genre_array">
+        <item>Acción</item>
+        <item>Comedia</item>
+        <item>Drama</item>
+        <item>Ficción</item>
+        <item>Romance</item>
+        <item>Terror</item>
+    </string-array>
+</resources>
